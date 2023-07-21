@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-This script display multiple figure plot examples
+This script displays multiple figure plot examples
 
 @author: Alexis.Vivien
 """
