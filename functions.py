@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-A module full of usefull functions
+A module of usefull functions
 @author: Alexis.Vivien
 
 last revised : 01.02.2022
